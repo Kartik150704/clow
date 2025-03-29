@@ -6,9 +6,10 @@ Clow is a dedicated mobile application that connects IIT Ropar students with aut
 
 ## Demo Video
 
-[![Clow App Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-*Click the image above to watch the demo video*
+<video width="640" height="360" controls>
+  <source src="./clow-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## ✨ Core Features
 
