@@ -5,8 +5,8 @@
 Clow is a dedicated mobile application that connects IIT Ropar students with auto rickshaw drivers for convenient campus transportation. The platform offers a seamless booking experience for students while providing drivers with a simple interface to manage ride requests.
 
 ## Demo Video
-
-https://github.com/Kartik150704/clow/assets/clow-demo.mp4
+<video src="./clow-demo.mp4" controls="controls" muted="muted" style="max-width:100%;">
+</video>
 
 ## ✨ Core Features
 
