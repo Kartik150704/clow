@@ -80,7 +80,6 @@ Clow is built using React Native for the frontend, Node.js for the backend, and 
 ## 📞 Support & Contact
 
 For any queries, feedback, or support:
-
 - **Email**: team@clow.in
 
 ---
